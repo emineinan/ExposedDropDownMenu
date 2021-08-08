@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExposedDropdownMenu</string>
+    <string name="how_dou_you_feel_today">How dou you feel today?</string>
+    <string name="feelings">Feelings</string>
+
+    <string-array name="feelings">
+        <item>Sad</item>
+        <item>Dissatisfied</item>
+        <item>Satisfied</item>
+        <item>Happy</item>
+        <item>Excited</item>
+    </string-array>
+
+</resources>
